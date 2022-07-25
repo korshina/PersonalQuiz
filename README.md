@@ -1,7 +1,7 @@
 # PersonalQuiz
 Code for the Personality Quiz project in the App Development with Swift course from Apple
 
-Quick Overview
+# Quick Overview
 Now that you've analyzed which components you'll need, it's probably easier to see how the project will come together. You'll use three view controllers for your quiz:
 
 The first is an introduction screen with information about the quiz and a button to begin.
